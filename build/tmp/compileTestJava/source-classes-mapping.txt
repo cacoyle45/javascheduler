@@ -1,0 +1,2 @@
+com/ciaran/obsidian/scheduler/SchedulerApplicationTests.java
+ com.ciaran.obsidian.scheduler.SchedulerApplicationTests
